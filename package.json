@@ -1,7 +1,7 @@
 {
   "name": "mlbb-level-bot",
   "version": "1.0.0",
-  "description": "> A Discord Leveling Bot built with Discord.js and Canvas made by roefinoavrililo\r ## The Most Complete Discord Leveling Bot Open Source!\r > Role level, set and add, rank card, more! Easy to use and free!",
+  "description": "> A Discord Leveling Bot built with Discord.js and Canvas made by Aizen",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
